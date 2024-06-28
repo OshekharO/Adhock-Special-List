@@ -108,6 +108,7 @@
 ||vuukle.com^
 ||analytics.htmedia.in^
 ||agi-static.indiatimes.com^
+||cdn.ampproject.org^
 
 ! Jun 26, 2024 https://m.xs777.org
 m.xs777.org###d_bshmww
@@ -126,9 +127,6 @@ spankbang.party###shorts-frame
 ! Jun 26, 2024 https://search.literotica.com
 search.literotica.com##.B_fp.container
 search.literotica.com##.w_mQ.w_ew
-
-! Jun 26, 2024 https://www.literotica.com
-www.literotica.com##.B_fp.container
 
 ! Jun 26, 2024 https://omegascans.org
 omegascans.org##.amMb78RPPU8tNuFfBZUD
