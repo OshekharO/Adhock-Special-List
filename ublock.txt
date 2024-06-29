@@ -156,9 +156,18 @@
 ||adform.net^
 ||temu.com^
 ||kwcdn.com^
+||brandmetrics.com^
+||outbrain.com^
+||permutive.app^
+||wapo.pub^
+||twimg.com^
 ||anonymous-analytics.tonkeeper.com^
 ||analytics.support.supercell.com^
 ||subscribe.washingtonpost.com^
+||newsletters.washingtonpost.com^
+||targeting.washingtonpost.com^
+||zeustechnology.com^
+||webcontentassessor.com^
 ! Google
 ||clienttracing-pa.googleapis.com^
 ||imasdk.googleapis.com^
