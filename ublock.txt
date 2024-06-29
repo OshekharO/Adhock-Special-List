@@ -96,6 +96,38 @@
 ||pemsrv.com^
 ||realsrv.com^
 ||magsrv.com^
+||adsrvr.org^
+||ad-m.asia^
+||a-mo.net^
+||adnxs.com^
+||adgrx.com^
+||bluekai.com^
+||appier.net^
+||2mdn.net^
+||cinarra.com^
+||criteo.com^
+||criteo.net^
+||crwdcntrl.net^
+||ctnsnet.com^
+||deepintent.com^
+||dotomi.com^
+||demdex.net^
+||ipredictive.com^
+||iprom.net^
+||loopme.me^
+||ads.linkedin.com^
+||mathtag.com^
+||mediago.io^
+||moengage.com^
+||adx.opera.com^
+||quantserve.com^
+||stackadapt.com^
+||tapad.com^
+||ggpht.com^
+||turn.com^
+||ebxcdn.com^
+||unrulymedia.com^
+||spotxchange.com^
 ||pubmatic.com^
 ||taboola.com^
 ||chartbeat.com^
@@ -190,3 +222,11 @@ www.randomlists.com##html > .adsbygoogle-noablate.adsbygoogle
 www.randomlists.com##.layout-top
 www.randomlists.com##.section_gutter.layout-part3 > .google-auto-placed
 www.randomlists.com##.layout-main > .google-auto-placed
+
+! Jun 29, 2024 https://indianexpress.com
+indianexpress.com##.ie-storybox > .ads-container
+indianexpress.com##div.ads-container:nth-of-type(1)
+indianexpress.com##div.ads-container:nth-of-type(4)
+indianexpress.com##div.ads-container:nth-of-type(6)
+indianexpress.com##.ie-premium-content-block.ev-meter-content > .ev-meter-content
+indianexpress.com##div.ads-container:nth-of-type(5)
