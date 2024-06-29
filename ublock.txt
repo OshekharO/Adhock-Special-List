@@ -2,8 +2,13 @@
 ! Homepage: https://github.com/OshekharO/Adhock-Special-List
 ! by: Saksham Shekher
 
+||ugsdk.cn^
+||zijieapi.com^
+||dpw202501.com^
 ||jiusudie.com^
-||bytecdntp.com^
+||11b5e241a7.com^
+||a64x.com^
+||d0e564588b.com^
 ||h2wtja8bjqzu.xyz^
 ||kspl48j.xyz^
 ||soza57e.xyz^
@@ -14,12 +19,8 @@
 ||dvd5s5.com^
 ||7j4tpio.com^
 ||7nmtj1c.com^
-||connect.facebook.net^
-||disqus.com^
-||disquscdn.com^
 ||9jxgqf.cn^
 ||51.la^
-||bytegoofy.com^
 ||mopqpn.cn^
 ||ry0pgi.cn^
 ||afibosk.com^
@@ -27,16 +28,18 @@
 ||keilfcy.com^
 ||vnymvnu.com^
 ||xiaoshuotxt668.org^
-||baidu.com^
 ||6pznpz.com^
 ||zqnp3o.com^
 ||4wxtif.com^
 ||mondel303inta.com^
-||ads-blue.com^
 ||agl002.online^
+||ads-blue.com^
+||baidu.com^
+||connect.facebook.net^
+||disqus.com^
+||disquscdn.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
-||click.googleanalytics.com^
 ||an.facebook.com^
 ||geo.yahoo.com^
 ||udc.yahoo.com^
@@ -63,16 +66,11 @@
 ||bytegoofy.com^
 ||bytedance.com^
 ||bytetos.com^
+||bytecdntp.com^
 ||ibytedapm.com^
 ||yhgfb-cn-static.com^
-||ugsdk.cn^
-||zijieapi.com^
-||dpw202501.com^
 ||collector.spankbang.party^
 ||1xbetind.in^
-||11b5e241a7.com^
-||a64x.com^
-||d0e564588b.com^
 ||lehren.com^
 ||syndication.twitter.com^
 ||ydc1wes.me^
@@ -86,13 +84,8 @@
 ||amazon-adsystem.com^
 ||clickfuse.com^
 ||inmobi.com^
-||www.googletagmanager.com^
-||analytics.google.com^
-||doubleclick.net^
-||googlesyndication.com^
 ||hm.baidu.com^
 ||ptgncdn.com^
-||www.google-analytics.com^
 ||pemsrv.com^
 ||realsrv.com^
 ||magsrv.com^
@@ -133,7 +126,6 @@
 ||chartbeat.com^
 ||clmbtech.com^
 ||growthrx.in^
-||imasdk.googleapis.com^
 ||andbeyond.media^
 ||vdo.ai^
 ||api.snapkit.com^
@@ -142,6 +134,15 @@
 ||agi-static.indiatimes.com^
 ||cdn.ampproject.org^
 ||adform.net^
+! Google
+||clienttracing-pa.googleapis.com^
+||imasdk.googleapis.com^
+||www.google-analytics.com^
+||www.googletagmanager.com^
+||analytics.google.com^
+||doubleclick.net^
+||googlesyndication.com^
+||googleanalytics.com^
 
 ! Jun 26, 2024 https://m.xs777.org
 m.xs777.org###d_bshmww
