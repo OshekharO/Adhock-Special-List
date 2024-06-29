@@ -109,6 +109,7 @@
 ||analytics.htmedia.in^
 ||agi-static.indiatimes.com^
 ||cdn.ampproject.org^
+||adform.net^
 
 ! Jun 26, 2024 https://m.xs777.org
 m.xs777.org###d_bshmww
@@ -172,6 +173,11 @@ mlinks.huboflink.site##.stickyzone
 mlinks.huboflink.site##.box
 mlinks.huboflink.site###secondary
 
+! Jun 29, 2024 https://www.randomlists.com
+www.randomlists.com##html > .adsbygoogle-noablate.adsbygoogle
+www.randomlists.com##.layout-top
+www.randomlists.com##.section_gutter.layout-part3 > .google-auto-placed
+www.randomlists.com##.layout-main > .google-auto-placed
 ! Jun 28, 2024 https://mydramalist.com
 mydramalist.com###mdl-gpt-footer-mobile-2
 mydramalist.com##.mdl-gpt-tag
