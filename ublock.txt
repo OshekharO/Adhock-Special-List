@@ -158,6 +158,7 @@
 ||kwcdn.com^
 ||anonymous-analytics.tonkeeper.com^
 ||analytics.support.supercell.com^
+||subscribe.washingtonpost.com^
 ! Google
 ||clienttracing-pa.googleapis.com^
 ||imasdk.googleapis.com^
@@ -332,3 +333,11 @@ a2zapk.io##.modalpop
 a2zapk.io##.col-lg-9 > center
 a2zapk.io##center
 
+! Jun 29, 2024 https://www.washingtonpost.com
+||https://www.washingtonpost.com/subscribe/static/tetro-client/fusion/tetro.min.js
+||https://www.washingtonpost.com/subscribe/privacy-fe-api/privacy-api-stub.min.js
+www.washingtonpost.com##.feedIdx-0.ob-smartfeed-wrapper
+www.washingtonpost.com##.mb-lg.hide-for-print
+www.washingtonpost.com##.dn-ns.db.cb
+www.washingtonpost.com###wall-bottom-drawer-container
+www.washingtonpost.com##.regwall-overlay.bg-black.w-100.h-100.o-50.fixed.right-0.bottom-0
