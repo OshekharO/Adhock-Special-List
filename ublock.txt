@@ -1,7 +1,8 @@
 ! Title: Adhock Special List
 ! Homepage: https://github.com/OshekharO/Adhock-Special-List
+! License: https://github.com/OshekharO/Adhock-Special-List/blob/main/LICENSE
 ! by: Saksham Shekher
-
+!-------------blocking filters--------------!
 ||ugsdk.cn^
 ||zijieapi.com^
 ||dpw202501.com^
