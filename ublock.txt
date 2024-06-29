@@ -98,6 +98,7 @@
 ||adgrx.com^
 ||adscale.de^
 ||appier.net^
+||a-ads.com^
 ||bidgear.com^
 ||bidswitch.net^
 ||bluekai.com^
@@ -323,3 +324,11 @@ www.livemint.com##.subscribe.white-box
 www.livemint.com##.footer-app-wrap
 www.livemint.com##.insightBanner
 ||www.livemint.com/lm-img/subscription/sdk/prod/subscriptionSDK.js
+
+! Jun 29, 2024 https://a2zapk.io
+a2zapk.io###a-ads5
+a2zapk.io###a-ads4
+a2zapk.io##.modalpop
+a2zapk.io##.col-lg-9 > center
+a2zapk.io##center
+
