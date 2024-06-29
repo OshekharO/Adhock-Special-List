@@ -173,11 +173,6 @@ mlinks.huboflink.site##.stickyzone
 mlinks.huboflink.site##.box
 mlinks.huboflink.site###secondary
 
-! Jun 29, 2024 https://www.randomlists.com
-www.randomlists.com##html > .adsbygoogle-noablate.adsbygoogle
-www.randomlists.com##.layout-top
-www.randomlists.com##.section_gutter.layout-part3 > .google-auto-placed
-www.randomlists.com##.layout-main > .google-auto-placed
 ! Jun 28, 2024 https://mydramalist.com
 mydramalist.com###mdl-gpt-footer-mobile-2
 mydramalist.com##.mdl-gpt-tag
@@ -189,3 +184,9 @@ mydramalist.com##.spnsr
 www.fakexy.com##.i > .adsbygoogle
 www.fakexy.com##div.box > .adsbygoogle
 www.fakexy.com##ins.adsbygoogle-noablate.adsbygoogle:nth-of-type(3)
+
+! Jun 29, 2024 https://www.randomlists.com
+www.randomlists.com##html > .adsbygoogle-noablate.adsbygoogle
+www.randomlists.com##.layout-top
+www.randomlists.com##.section_gutter.layout-part3 > .google-auto-placed
+www.randomlists.com##.layout-main > .google-auto-placed
