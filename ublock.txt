@@ -32,6 +32,7 @@
 ||zqnp3o.com^
 ||4wxtif.com^
 ||mondel303inta.com^
+||kostprice.com^
 ||agl002.online^
 ||ads-blue.com^
 ||baidu.com^
@@ -54,6 +55,8 @@
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
 ||offerwall.yandex.net^
+||2mdn.net^
+||r2b2.io^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||bdapi-ads.realmemobile.com^
@@ -63,12 +66,9 @@
 ||api-adservices.apple.com^
 ||grs.hicloud.com^
 ||nmetrics.samsung.com^
-||bytegoofy.com^
-||bytedance.com^
-||bytetos.com^
-||bytecdntp.com^
 ||ibytedapm.com^
 ||yhgfb-cn-static.com^
+||ymmobi.com^
 ||collector.spankbang.party^
 ||1xbetind.in^
 ||lehren.com^
@@ -94,20 +94,32 @@
 ||a-mo.net^
 ||adnxs.com^
 ||adgrx.com^
-||bluekai.com^
+||adscale.de^
 ||appier.net^
-||2mdn.net^
+||bidgear.com^
+||bidswitch.net^
+||bluekai.com^
+||bytegoofy.com^
+||bytedance.com^
+||bytetos.com^
+||bytecdntp.com^
+||bidgear.com^
+||bitgravity.com^
 ||cinarra.com^
 ||criteo.com^
 ||criteo.net^
 ||crwdcntrl.net^
 ||ctnsnet.com^
+||creativecdn.com^
+||chartbeat.com^
+||clmbtech.com^
 ||deepintent.com^
 ||dotomi.com^
 ||demdex.net^
 ||ipredictive.com^
 ||iprom.net^
 ||loopme.me^
+||360yield.com^
 ||ads.linkedin.com^
 ||mathtag.com^
 ||mediago.io^
@@ -122,6 +134,7 @@
 ||quantserve.com^
 ||stackadapt.com^
 ||tapad.com^
+||track.us.org^
 ||ggpht.com^
 ||turn.com^
 ||ebxcdn.com^
@@ -129,8 +142,6 @@
 ||spotxchange.com^
 ||pubmatic.com^
 ||taboola.com^
-||chartbeat.com^
-||clmbtech.com^
 ||growthrx.in^
 ||andbeyond.media^
 ||vdo.ai^
@@ -277,3 +288,17 @@ www.moneycontrol.com##div.market_bx > .advSlotsGrayBox
 www.moneycontrol.com##.otherstk_slide > .advSlotsGrayBox
 www.moneycontrol.com##.clearfix > .advSlotsGrayBox
 
+! Jun 29, 2024 https://www.ndtv.com
+www.ndtv.com##.noti_wrap
+www.ndtv.com##.noti_bgstyle
+www.ndtv.com##.head-story__wrp > .add-section
+www.ndtv.com##.head-story__wrp > .pt-0
+www.ndtv.com##.expand-txt > .add-section
+www.ndtv.com##.top-scroll-17.section > .vjl-cntr2 > .vjl-row > div.vjl-sm-12 > .ad-art_full-tbs.ad-art_full2
+www.ndtv.com##.ls-ns_br.ls-ns_ul > .pt-0.section
+www.ndtv.com##.pb-0.pt-0.section_two
+www.ndtv.com##.TaboolaParentPanel2Widget1 > .pt-0.section
+www.ndtv.com##.TaboolaParentPanel2Widget3
+www.ndtv.com##.TaboolaParentPanel2Widget6
+www.ndtv.com##.dock-fix.mobile-dock.crd_img
+www.ndtv.com##.add__swrp
