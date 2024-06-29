@@ -42,6 +42,8 @@
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 ||an.facebook.com^
+||analytics.htmedia.in^
+||webengage.com^
 ||geo.yahoo.com^
 ||udc.yahoo.com^
 ||log.fc.yahoo.com^
@@ -302,3 +304,12 @@ www.ndtv.com##.TaboolaParentPanel2Widget3
 www.ndtv.com##.TaboolaParentPanel2Widget6
 www.ndtv.com##.dock-fix.mobile-dock.crd_img
 www.ndtv.com##.add__swrp
+
+! Jun 29, 2024 https://www.hindustantimes.com
+www.hindustantimes.com##.topAdMweb.dHide.adHeight270
+www.hindustantimes.com##.adMinHeight313
+www.hindustantimes.com##div.adHeight313
+www.hindustantimes.com##.pramotedWidget.darkBg.moreFrom
+www.hindustantimes.com##.adHeight40
+www.hindustantimes.com##.pt15.dHide.align-center.mb5.m_headBanner40
+www.hindustantimes.com##.QuizComponent_dVisible__FZfPx.QuizComponent_smallAds300__gEGAA
