@@ -322,3 +322,4 @@ www.livemint.com##div.my-16.ad-wrapper
 www.livemint.com##.subscribe.white-box
 www.livemint.com##.footer-app-wrap
 www.livemint.com##.insightBanner
+||www.livemint.com/lm-img/subscription/sdk/prod/subscriptionSDK.js
