@@ -188,6 +188,7 @@
 ||targeting.washingtonpost.com^
 ||zeustechnology.com^
 ||webcontentassessor.com^
+||adkernel.com^
 ! Google
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
@@ -230,6 +231,7 @@
 ##.sponsored
 ##.ad__container
 ##.spnsr
+##.ads_placement
 ##.adbox.banner_ads
 ##.textads
 /ads-index.js
@@ -383,6 +385,16 @@ www.livemint.com##div.my-16.ad-wrapper
 www.livemint.com##.subscribe.white-box
 www.livemint.com##.footer-app-wrap
 www.livemint.com##.insightBanner
+www.livemint.com##.menuBtm
+www.livemint.com##.subscribeNow
+www.livemint.com##.mobileShare
+www.livemint.com##.mintPillars
+www.livemint.com##div.widgetBlock > div > .designCol2_box > div.contentBox > .leftblockAd
+www.livemint.com##div.widgetBlock > .designCol2_box > div.contentBox > .leftblockAd
+www.livemint.com##.mt16.banner
+www.livemint.com##.rightAdNew
+www.livemint.com##.newsletterRHS.rightBlockNew
+www.livemint.com###gpt_unit_\/*\/LM_MF_WAP_Interstitial_Multisize_0
 ||www.livemint.com/lm-img/subscription/sdk/prod/subscriptionSDK.js
 
 ! Jun 29, 2024 https://a2zapk.io
