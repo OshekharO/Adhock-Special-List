@@ -217,13 +217,21 @@
 ||kmsauto.uno^
 
 ! Special Rules
-##.ad-bottom
-##.ad-banner
-##.ad-top
+##.ad-*
+##.*-ad
+##.ad_*
+##*_ad
+##.ads-*
+##.*-ads
+##.ads_*
+##*_ads
+##.adsbygoogle
+##.sponsored
 ##.ad__container
 ##.spnsr
 ##.adbox.banner_ads
 ##.textads
+/ads-index.js
 /adsense.min.css
 /adsbygoogle.js
 /ads-*.js
