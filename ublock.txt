@@ -230,3 +230,22 @@ indianexpress.com##div.ads-container:nth-of-type(4)
 indianexpress.com##div.ads-container:nth-of-type(6)
 indianexpress.com##.ie-premium-content-block.ev-meter-content > .ev-meter-content
 indianexpress.com##div.ads-container:nth-of-type(5)
+
+! Jun 29, 2024 https://www.moneycontrol.com
+www.moneycontrol.com##.hide_in_desktop.advSlotsGrayBox
+www.moneycontrol.com##.pro_promotion.for_nonpro_users.linkSignIn.nonProBtn
+www.moneycontrol.com###mc_headband
+www.moneycontrol.com##.show-moblie.advSlotsGrayBoxs
+www.moneycontrol.com##.main-left > .desk-hide.dfp_ads_block
+www.moneycontrol.com##div.desk-hide.dfp_ads_block:nth-of-type(2)
+www.moneycontrol.com##.MT20.hmpro_widget.dfp_ads_block
+www.moneycontrol.com##.rhs_banner_300x34_widget
+www.moneycontrol.com##.get_app_sticky_btn.mcApp_btn
+www.moneycontrol.com##div.desk-hide.dfp_ads_block:nth-of-type(4)
+www.moneycontrol.com##.desk-hide.newsletter_widget_wap.newsletter_widget
+www.moneycontrol.com##div.desk-hide.dfp_ads_block:nth-of-type(8)
+www.moneycontrol.com##.col_right > .advSlotsGrayBox
+www.moneycontrol.com##div.market_bx > .advSlotsGrayBox
+www.moneycontrol.com##.otherstk_slide > .advSlotsGrayBox
+www.moneycontrol.com##.clearfix > .advSlotsGrayBox
+
