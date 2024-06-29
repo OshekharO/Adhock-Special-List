@@ -313,3 +313,12 @@ www.hindustantimes.com##.pramotedWidget.darkBg.moreFrom
 www.hindustantimes.com##.adHeight40
 www.hindustantimes.com##.pt15.dHide.align-center.mb5.m_headBanner40
 www.hindustantimes.com##.QuizComponent_dVisible__FZfPx.QuizComponent_smallAds300__gEGAA
+
+! Jun 29, 2024 https://www.livemint.com
+www.livemint.com##.budgetBox.container
+www.livemint.com##.fixadheight
+www.livemint.com##.adHolder
+www.livemint.com##div.my-16.ad-wrapper
+www.livemint.com##.subscribe.white-box
+www.livemint.com##.footer-app-wrap
+www.livemint.com##.insightBanner
