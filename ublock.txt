@@ -112,6 +112,12 @@
 ||mathtag.com^
 ||mediago.io^
 ||moengage.com^
+||ads-admin.bravesoftware.com^
+||ads-admin.brave.com^
+||ads.brave.com^
+||metrics.brave.com^
+||p2a.brave.com^
+||cdn.prod.metrics.imdb.a2z.com^
 ||adx.opera.com^
 ||quantserve.com^
 ||stackadapt.com^
@@ -134,6 +140,10 @@
 ||agi-static.indiatimes.com^
 ||cdn.ampproject.org^
 ||adform.net^
+||temu.com^
+||kwcdn.com^
+||anonymous-analytics.tonkeeper.com^
+||analytics.support.supercell.com^
 ! Google
 ||clienttracing-pa.googleapis.com^
 ||imasdk.googleapis.com^
@@ -143,6 +153,23 @@
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleanalytics.com^
+||datasaver.googleapis.com^
+||clienttracing-pa.googleapis.com^
+||feedback-pa.googleapis.com^
+||growth-pa.googleapis.com^
+||feedback-pa.clients6.google.com^
+||adsmarketingfrontend-pa.clients6.google.com^
+||gvt2.com^
+||gvt2-cn.com^
+||gvt3.com^
+
+! fake sites
+||npm-compare.com^
+||bunjs.run^
+||json-5.com^
+||copilot-chat.com^
+||fe-tool.com^
+||kmsauto.uno^
 
 ! Jun 26, 2024 https://m.xs777.org
 m.xs777.org###d_bshmww
