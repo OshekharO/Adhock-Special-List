@@ -383,6 +383,10 @@ www.livemint.com##div.my-16.ad-wrapper
 www.livemint.com##.subscribe.white-box
 www.livemint.com##.footer-app-wrap
 www.livemint.com##.insightBanner
+www.livemint.com##.menuBtm
+www.livemint.com##.subscribeNow
+www.livemint.com##.mobileShare
+www.livemint.com##.mintPillars
 ||www.livemint.com/lm-img/subscription/sdk/prod/subscriptionSDK.js
 
 ! Jun 29, 2024 https://a2zapk.io
