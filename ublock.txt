@@ -178,3 +178,8 @@ mydramalist.com##.mdl-gpt-tag
 mydramalist.com##.cookie__floating__content
 mydramalist.com##.ad-removal-info
 mydramalist.com##.spnsr
+
+! Jun 29, 2024 https://www.fakexy.com
+www.fakexy.com##.i > .adsbygoogle
+www.fakexy.com##div.box > .adsbygoogle
+www.fakexy.com##ins.adsbygoogle-noablate.adsbygoogle:nth-of-type(3)
