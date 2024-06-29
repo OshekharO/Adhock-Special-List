@@ -39,11 +39,17 @@
 ||connect.facebook.net^
 ||disqus.com^
 ||disquscdn.com^
+||media.net^
+||advice-ads.s3.amazonaws.com^
+||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 ||an.facebook.com^
 ||analytics.htmedia.in^
 ||webengage.com^
+||ads.yahoo.com^
+||analytics.yahoo.com^
+||partnerads.ysm.yahoo.com^
 ||geo.yahoo.com^
 ||udc.yahoo.com^
 ||log.fc.yahoo.com^
@@ -53,6 +59,7 @@
 ||auction.unityads.unity3d.com^
 ||webview.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
@@ -139,9 +146,16 @@
 ||tapad.com^
 ||track.us.org^
 ||ggpht.com^
+||static.ads-twitter.com^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||analytics.pinterest.com^
+||trk.pinterest.com^
+||ads.youtube.com^
 ||turn.com^
 ||ebxcdn.com^
 ||unrulymedia.com^
+||adcolony.com^
 ||spotxchange.com^
 ||pubmatic.com^
 ||taboola.com^
@@ -156,6 +170,11 @@
 ||adform.net^
 ||temu.com^
 ||kwcdn.com^
+||mouseflow.com^
+||luckyorange.com^
+||hotjar.com^
+||freshmarketer.com^
+||stats.wp.com^
 ||brandmetrics.com^
 ||outbrain.com^
 ||permutive.app^
@@ -169,10 +188,12 @@
 ||zeustechnology.com^
 ||webcontentassessor.com^
 ! Google
+||adservice.google.com^
+||pagead2.googleadservices.com^
 ||clienttracing-pa.googleapis.com^
 ||imasdk.googleapis.com^
-||www.google-analytics.com^
-||www.googletagmanager.com^
+||google-analytics.com^
+||googletagmanager.com^
 ||analytics.google.com^
 ||doubleclick.net^
 ||googlesyndication.com^
@@ -194,6 +215,26 @@
 ||copilot-chat.com^
 ||fe-tool.com^
 ||kmsauto.uno^
+
+! Special Rules
+##.ad-bottom
+##.ad-banner
+##.ad-top
+##.ad__container
+##.spnsr
+##.adbox.banner_ads
+##.textads
+/adsense.min.css
+/adsbygoogle.js
+/ads-*.js
+/ads-*.css^
+/ad.js
+/ad.min.js
+/gads.js
+/ads.js
+/pagead.js
+/partnerads.js
+/partner.ad.js
 
 ! Jun 26, 2024 https://m.xs777.org
 m.xs777.org###d_bshmww
