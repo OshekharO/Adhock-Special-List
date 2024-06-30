@@ -67,6 +67,7 @@
 ||offerwall.yandex.net^
 ||2mdn.net^
 ||r2b2.io^
+||statcounter.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||bdapi-ads.realmemobile.com^
