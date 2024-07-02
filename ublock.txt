@@ -96,6 +96,7 @@
 ||clickfuse.com^
 ||inmobi.com^
 ||hm.baidu.com^
+||openx.net^
 ||ptgncdn.com^
 ||pemsrv.com^
 ||realsrv.com^
@@ -103,6 +104,7 @@
 ||adsrvr.org^
 ||ad-m.asia^
 ||a-mo.net^
+||adroll.com^
 ||adnxs.com^
 ||adgrx.com^
 ||adscale.de^
@@ -148,7 +150,7 @@
 ||tapad.com^
 ||track.us.org^
 ||ggpht.com^
-||static.ads-twitter.com^
+||ads-twitter.com^
 ||ads-api.twitter.com^
 ||ads.pinterest.com^
 ||analytics.pinterest.com^
@@ -271,7 +273,7 @@ omegascans.org##.amMb78RPPU8tNuFfBZUD
 omegascans.org##.iv6bGFFrBm2OTsdCZq8K
 omegascans.org##.px-3.lg\:w-\[38\.4\%\].w-full
 
-! Jun 26, 2024 https://www.unveilingconference.org
+! Jun 26, 2024 www.unveilingconference.org
 ##.app
 ###htmlContenthtml
 ##.zdhf
@@ -292,7 +294,7 @@ doodrive.com##.uk-open.uk-flex.uk-modal.uk-flex-top
 faloo.com##.nologin
 faloo.com##.show.zheZhao2.zheZhao
 
-! Jun 27, 2024 https://www.samsung.com
+! Jun 27, 2024 www.samsung.com
 www.samsung.com##.cookie-bar--type-manage.cookie-bar
 www.samsung.com##.cod05-app-banner
 
@@ -317,12 +319,12 @@ mydramalist.com##.cookie__floating__content
 mydramalist.com##.ad-removal-info
 mydramalist.com##.spnsr
 
-! Jun 29, 2024 https://www.fakexy.com
+! Jun 29, 2024 www.fakexy.com
 www.fakexy.com##.i > .adsbygoogle
 www.fakexy.com##div.box > .adsbygoogle
 www.fakexy.com##ins.adsbygoogle-noablate.adsbygoogle:nth-of-type(3)
 
-! Jun 29, 2024 https://www.randomlists.com
+! Jun 29, 2024 www.randomlists.com
 www.randomlists.com##html > .adsbygoogle-noablate.adsbygoogle
 www.randomlists.com##.layout-top
 www.randomlists.com##.section_gutter.layout-part3 > .google-auto-placed
@@ -336,7 +338,7 @@ indianexpress.com##div.ads-container:nth-of-type(6)
 indianexpress.com##.ie-premium-content-block.ev-meter-content > .ev-meter-content
 indianexpress.com##div.ads-container:nth-of-type(5)
 
-! Jun 29, 2024 https://www.moneycontrol.com
+! Jun 29, 2024 www.moneycontrol.com
 www.moneycontrol.com##.hide_in_desktop.advSlotsGrayBox
 www.moneycontrol.com##.pro_promotion.for_nonpro_users.linkSignIn.nonProBtn
 www.moneycontrol.com###mc_headband
@@ -354,7 +356,7 @@ www.moneycontrol.com##div.market_bx > .advSlotsGrayBox
 www.moneycontrol.com##.otherstk_slide > .advSlotsGrayBox
 www.moneycontrol.com##.clearfix > .advSlotsGrayBox
 
-! Jun 29, 2024 https://www.ndtv.com
+! Jun 29, 2024 www.ndtv.com
 www.ndtv.com##.noti_wrap
 www.ndtv.com##.noti_bgstyle
 www.ndtv.com##.head-story__wrp > .add-section
@@ -369,7 +371,7 @@ www.ndtv.com##.TaboolaParentPanel2Widget6
 www.ndtv.com##.dock-fix.mobile-dock.crd_img
 www.ndtv.com##.add__swrp
 
-! Jun 29, 2024 https://www.hindustantimes.com
+! Jun 29, 2024 www.hindustantimes.com
 www.hindustantimes.com##.topAdMweb.dHide.adHeight270
 www.hindustantimes.com##.adMinHeight313
 www.hindustantimes.com##div.adHeight313
@@ -378,7 +380,7 @@ www.hindustantimes.com##.adHeight40
 www.hindustantimes.com##.pt15.dHide.align-center.mb5.m_headBanner40
 www.hindustantimes.com##.QuizComponent_dVisible__FZfPx.QuizComponent_smallAds300__gEGAA
 
-! Jun 29, 2024 https://www.livemint.com
+! Jun 29, 2024 www.livemint.com
 www.livemint.com##.budgetBox.container
 www.livemint.com##.fixadheight
 www.livemint.com##.adHolder
@@ -405,7 +407,7 @@ a2zapk.io##.modalpop
 a2zapk.io##.col-lg-9 > center
 a2zapk.io##center
 
-! Jun 29, 2024 https://www.washingtonpost.com
+! Jun 29, 2024 www.washingtonpost.com
 ||https://www.washingtonpost.com/subscribe/static/tetro-client/fusion/tetro.min.js
 ||https://www.washingtonpost.com/subscribe/privacy-fe-api/privacy-api-stub.min.js
 www.washingtonpost.com##.feedIdx-0.ob-smartfeed-wrapper
@@ -413,3 +415,6 @@ www.washingtonpost.com##.mb-lg.hide-for-print
 www.washingtonpost.com##.dn-ns.db.cb
 www.washingtonpost.com###wall-bottom-drawer-container
 www.washingtonpost.com##.regwall-overlay.bg-black.w-100.h-100.o-50.fixed.right-0.bottom-0
+
+! Jul 2, 2024 www.justanswer.com
+www.justanswer.com##.DonationBanner__container
