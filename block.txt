@@ -3,6 +3,15 @@
 ! License: https://github.com/OshekharO/Adhock-Special-List/blob/main/LICENSE
 ! by: Saksham Shekher
 !-------------blocking filters--------------!
+
+||profitablegatecpm.com^
+||peeredplanned.com^
+||kneltopeningfit.com^
+||chinacontraryintrepid.com^
+||capaciousdrewreligion.com^
+||recordedthereby.com^
+||tumultinconsistentexplore.com^
+||aggressivefrequentneckquirky.com^
 ||ugsdk.cn^
 ||zijieapi.com^
 ||dpw202501.com^
