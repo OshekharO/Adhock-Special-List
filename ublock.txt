@@ -48,6 +48,10 @@
 ||an.facebook.com^
 ||analytics.htmedia.in^
 ||webengage.com^
+||cxense.com^
+||piano.io^
+||site24x7rum.in^
+||tinypass.com^
 ||ads.yahoo.com^
 ||analytics.yahoo.com^
 ||partnerads.ysm.yahoo.com^
@@ -418,3 +422,12 @@ www.washingtonpost.com##.regwall-overlay.bg-black.w-100.h-100.o-50.fixed.right-0
 
 ! Jul 2, 2024 www.justanswer.com
 www.justanswer.com##.DonationBanner__container
+
+! Jul 2, 2024 www.thehindu.com
+www.thehindu.com##.tp-modal-overscroll-prevented.tp-modal
+www.thehindu.com##.tp-active.tp-backdrop
+www.thehindu.com##.mt-0.mb-0
+www.thehindu.com##div.article-ad
+www.thehindu.com##.tp-container-inner
+www.thehindu.com##.dfp-ad
+www.thehindu.com##.read-in-app-floating-btn
