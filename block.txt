@@ -99,6 +99,7 @@
 ||amazon-adsystem.com^
 ||clickfuse.com^
 ||inmobi.com^
+||myket.ir^
 ||hm.baidu.com^
 ||openx.net^
 ||ptgncdn.com^
@@ -123,6 +124,7 @@
 ||bytecdntp.com^
 ||bidgear.com^
 ||bitgravity.com^
+||cafebazaar.ir^
 ||cinarra.com^
 ||criteo.com^
 ||criteo.net^
@@ -431,3 +433,6 @@ www.thehindu.com##div.article-ad
 www.thehindu.com##.tp-container-inner
 www.thehindu.com##.dfp-ad
 www.thehindu.com##.read-in-app-floating-btn
+
+! Jul 2, 2024 www.rockmods.net
+www.rockmods.net###ignielAdBlock
