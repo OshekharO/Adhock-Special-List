@@ -49,7 +49,14 @@
 ||connect.facebook.net^
 ||disqus.com^
 ||disquscdn.com^
+||paypalobjects.com^
+||nr-data.net^
+||newrelic.com^
+||demand.supply^
+||clarity.ms^
 ||media.net^
+||statcounter.com^
+||fundingchoicesmessages.google.com^
 ||advice-ads.s3.amazonaws.com^
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -254,6 +261,7 @@
 ##.textads
 /ads-index.js
 /adsense.min.css
+/show_companion_ad.js
 /adsbygoogle.js
 /ads-*.js
 /ads-*.css^
