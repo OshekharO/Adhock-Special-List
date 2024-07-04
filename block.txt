@@ -43,6 +43,15 @@
 ||4wxtif.com^
 ||mondel303inta.com^
 ||kostprice.com^
+||1rx.io^
+||33across.com^
+||3lift.com^
+||acuityplatform.com^
+||admanmedia.com^
+||advertising.com^
+||affec.tv^
+||buysellads.net^
+||smartadserver.com^
 ||agl002.online^
 ||ads-blue.com^
 ||baidu.com^
@@ -453,3 +462,7 @@ www.thehindu.com##.read-in-app-floating-btn
 
 ! Jul 2, 2024 www.rockmods.net
 www.rockmods.net###ignielAdBlock
+
+! Jul 4, 2024 www.emailnator.com
+www.emailnator.com##.top-banner
+www.emailnator.com###cookie-notice
