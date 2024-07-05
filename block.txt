@@ -223,6 +223,8 @@
 ||zeustechnology.com^
 ||webcontentassessor.com^
 ||adkernel.com^
+||analytics.vedantu.com^
+||amplitude.com^
 ! Google
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
@@ -466,3 +468,8 @@ www.rockmods.net###ignielAdBlock
 ! Jul 4, 2024 www.emailnator.com
 www.emailnator.com##.top-banner
 www.emailnator.com###cookie-notice
+
+! Jul 5, 2024 www.vedantu.com
+www.vedantu.com###vui-react-portal-wrapper
+www.vedantu.com###AdBannerCont
+www.vedantu.com##.slick-initialized.slick-slider
