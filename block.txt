@@ -109,6 +109,7 @@
 ||ibytedapm.com^
 ||yhgfb-cn-static.com^
 ||ymmobi.com^
+||r2b2.io^
 ||collector.spankbang.party^
 ||1xbetind.in^
 ||lehren.com^
@@ -255,6 +256,31 @@
 ||kmsauto.uno^
 
 ! Special Rules
+###ads
+##.ad
+##.middle-banner-ad
+##.advertisement
+##.ad-banner
+##.ad-anchored
+##.js_shelf_ads
+##.ad-slot
+##.advertisement__leaderboard
+##.ad-leaderboard
+##.article-adsponsor
+##.top-ad-container
+##.header-ad
+##.ad-unit
+##.m-ad
+##.taboola-recommended
+##.ad-cluster-container
+##.subscribe-button
+##.ads9
+##.mpu-container
+##.ad-300x600
+##.tf-ad-block
+##.sidebar-ads-holder-top
+##.ads-one
+##.content-ads-holder
 ##.ad-*
 ##.*-ad
 ##.ad_*
