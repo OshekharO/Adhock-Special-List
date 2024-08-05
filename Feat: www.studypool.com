@@ -499,3 +499,7 @@ www.emailnator.com###cookie-notice
 www.vedantu.com###vui-react-portal-wrapper
 www.vedantu.com###AdBannerCont
 www.vedantu.com##.slick-initialized.slick-slider
+
+! Aug 5, 2024 www.studypool.com
+
+www.studypool.com##.floating-panel.logged-out
