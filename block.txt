@@ -295,6 +295,9 @@
 ##*_ads
 ##.adsbygoogle
 ##.sponsored
+###vi-smartbanner
+##.adsbyvli
+##.display_ad_place
 ##.ad__container
 ##.spnsr
 ##.ads_placement
@@ -508,3 +511,7 @@ www.vedantu.com##.slick-initialized.slick-slider
 ! Aug 5, 2024 www.studypool.com
 
 www.studypool.com##.floating-panel.logged-out
+
+! Aug 12, 2024 https://pastebin.com
+
+pastebin.com##.popup-container
