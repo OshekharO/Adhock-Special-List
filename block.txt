@@ -10,6 +10,7 @@
 ||chinacontraryintrepid.com^
 ||capaciousdrewreligion.com^
 ||recordedthereby.com^
+||ua.financialexpress.com^
 ||tumultinconsistentexplore.com^
 ||aggressivefrequentneckquirky.com^
 ||ugsdk.cn^
@@ -280,7 +281,10 @@
 ##.tf-ad-block
 ##.sidebar-ads-holder-top
 ##.ads-one
+##.ad-bg-container
 ##.content-ads-holder
+##.custom_sticky_ads
+##.custom_sticky_ads_bottom
 ##.ad-*
 ##.*-ad
 ##.ad_*
@@ -301,7 +305,7 @@
 /show_companion_ad.js
 /adsbygoogle.js
 /ads-*.js
-/ads-*.css^
+/ads-*.css
 /ad.js
 /ad.min.js
 /gads.js
@@ -309,6 +313,7 @@
 /pagead.js
 /partnerads.js
 /partner.ad.js
+/pubads_impl_page_level_ads.js
 
 ! Jun 26, 2024 https://m.xs777.org
 m.xs777.org###d_bshmww
