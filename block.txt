@@ -115,22 +115,11 @@
 ||cryptonight^
 ||coinhive^
 ||2giga.link^
-||shorte.st^
-||adf.ly^
-||linkvertise.com^
-||ouo.io^
 ||bc.vc^
 ||multiup.org^
 ||ceesty.com^
 ||exe.io^
 ||adshrink.it^
-||rapidgator.net^
-||nitroflare.com^
-||uploadgig.com^
-||letsupload.io^
-||sbembed.com^
-||streamsb.net^
-||fembed.com^
 ||femax20.com^
 
 !--------------- Anti-Circumvention ---------------!
