@@ -36,6 +36,7 @@
 ||propellerads.com^
 ||adroll.com^
 ||adblade.com^
+||advertising.com^
 
 !--------------- Privacy & Tracking ---------------!
 ||google-analytics.com^
@@ -69,6 +70,7 @@
 ||clarity.ms^
 ||livechatinc.com^
 ||userreport.com^
+||sentry.io^
 
 !--------------- Anti-Telemetry & Bloatware ---------------!
 ||telemetry.microsoft.com^
