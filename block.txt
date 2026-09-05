@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/OshekharO/Adhock-Special-List
 ! License: MIT
 ! Expires: 2 days
+! Optimization: Removed duplicate rules (e.g. taboola.com, sentry.io) to reduce memory overhead and speed up parsing in adblock clients.
 
 !--------------- General Ad Blocking ---------------!
 ||doubleclick.net^
@@ -31,7 +32,6 @@
 ||teads.tv^
 ||sharethrough.com^
 ||revcontent.com^
-||taboola.com^
 ||mgid.com^
 ||propellerads.com^
 ||adroll.com^
@@ -70,7 +70,6 @@
 ||clarity.ms^
 ||livechatinc.com^
 ||userreport.com^
-||sentry.io^
 
 !--------------- Anti-Telemetry & Bloatware ---------------!
 ||telemetry.microsoft.com^
