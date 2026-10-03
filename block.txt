@@ -37,6 +37,25 @@
 ||adroll.com^
 ||adblade.com^
 ||advertising.com^
+||openx.net^
+||casalemedia.com^
+||exoclick.com^
+||popads.net^
+||buysellads.com^
+||triplelift.com^
+||indexww.com^
+||gumgum.com^
+||sovrn.com^
+||smaato.net^
+||juicyads.com^
+||trafficjunky.net^
+||adsterra.com^
+||infolinks.com^
+||outbrainimg.com^
+||taboolasyndication.com^
+||mediavine.com^
+||epom.com^
+||adcovery.com^
 
 !--------------- Privacy & Tracking ---------------!
 ||google-analytics.com^
@@ -203,3 +222,20 @@ m.juzhishuwu.com##umpc
 ##iframe[src*="ad"]
 ##amp-ad
 ##div[data-testid="ad"]
+##ins.adsbygoogle
+##iframe[id^="aswift_"]
+##div[id^="div-gpt-ad"]
+##.ad-placement
+##.ad_wrapper
+##.ad_container
+##.sponsored-post
+##[class*="sponsored-label"]
+##.promoted-content
+##[id*="GoogleActiveViewClass"]
+##.cookie-banner
+##.cookie-notice
+##.gdpr-consent-banner
+##.ad-banner
+##.ad_banner
+##.ad-content
+##.native-ad
