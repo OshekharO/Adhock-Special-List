@@ -121,15 +121,15 @@
 ||data.vivo.com.cn^
 
 !--------------- Malware/Phishing Protection ---------------!
-||crack^
-||keygen^
-||torrent^
-||free-vpn^
-||porn^
-||nsfw^
+||crack.com^
+||keygen.com^
+||torrent.com^
+||free-vpn.com^
+||porn.com^
+||nsfw.com^
 ||coin-hive.com^
-||cryptonight^
-||coinhive^
+||cryptonight.com^
+||coinhive.com^
 ||2giga.link^
 ||bc.vc^
 ||multiup.org^
@@ -139,11 +139,11 @@
 ||femax20.com^
 
 !--------------- Anti-Circumvention ---------------!
-||adblock^
-||blockadblock^
-||anti-adblock^
-||wpad^
-||adblockdetector^
+||adblock.com^
+||blockadblock.com^
+||anti-adblock.com^
+||wpad.com^
+||adblockdetector.com^
 ||adcheck.js
 ||advertising.js
 ||adnotifications.com^
@@ -214,12 +214,15 @@ m.juzhishuwu.com##umpc
 ##.social-widget
 ##.chat-widget
 ##[data-ad-provider]
-##[id*="ad-"]
-##[class*="advert"]
-##[class*="bannerad"]
+##[id^="ad-container"]
+##[id^="ad-banner"]
+##[id^="ad-slot"]
+##.advert-banner
+##.bannerad
 ##div[id^="google_ads"]
-##div[class*="AdContainer"]
-##iframe[src*="ad"]
+##div[id^="ad-container"]
+##iframe[src*="doubleclick.net"]
+##iframe[src*="googlesyndication.com"]
 ##amp-ad
 ##div[data-testid="ad"]
 ##ins.adsbygoogle
@@ -229,7 +232,7 @@ m.juzhishuwu.com##umpc
 ##.ad_wrapper
 ##.ad_container
 ##.sponsored-post
-##[class*="sponsored-label"]
+##.sponsored-label
 ##.promoted-content
 ##[id*="GoogleActiveViewClass"]
 ##.cookie-banner
@@ -237,5 +240,4 @@ m.juzhishuwu.com##umpc
 ##.gdpr-consent-banner
 ##.ad-banner
 ##.ad_banner
-##.ad-content
 ##.native-ad
